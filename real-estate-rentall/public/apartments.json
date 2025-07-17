@@ -13,118 +13,27 @@
     "image": "https://images.unsplash.com/photo-1501183638710-841dd1904471?auto=format&fit=crop&w=800&q=60"
   },
   {
-    "id": 1,
+    "id": 41,
     "title": "Appartamento Luminoso",
     "address": "Via Savonarola 1, Milano",
     "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=60"
   },
 
-  {
-    "id": 3,
-    "title": "Monolocale Minimal",
-    "address": "Via Dante 7, Firenze",
-    "image": "https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&w=800&q=60"
-  },
-  {
-    "id": 4,
-    "title": "Attico Panoramico",
-    "address": "Via Torino 8, Genova",
-    "image": "https://images.unsplash.com/photo-1613545325268-bf0b674e47e4?auto=format&fit=crop&w=800&q=60"
-  },
-  {
-    "id": 5,
-    "title": "Residenza Rustica",
-    "address": "Via delle Rose 21, Bologna",
-    "image": "https://images.unsplash.com/photo-1600585153943-2ec5b2b4443e?auto=format&fit=crop&w=800&q=60"
-  },
-  {
-    "id": 6,
-    "title": "Studio Centrale",
-    "address": "Piazza Navona 2, Roma",
-    "image": "https://images.unsplash.com/photo-1595526114035-2877ba67c1da?auto=format&fit=crop&w=800&q=60"
-  },
-  {
-    "id": 7,
-    "title": "Loft Industriale",
-    "address": "Via Brera 14, Milano",
-    "image": "https://images.unsplash.com/photo-1600585154255-3b6c8cc2333c?auto=format&fit=crop&w=800&q=60"
-  },
-  {
-    "id": 8,
-    "title": "Casa in Collina",
-    "address": "Via Verde 45, Torino",
-    "image": "https://images.unsplash.com/photo-1615874959474-d6091e1e4365?auto=format&fit=crop&w=800&q=60"
-  },
-  {
-    "id": 9,
-    "title": "Appartamento con Balcone",
-    "address": "Corso Italia 18, Napoli",
-    "image": "https://images.unsplash.com/photo-1600585153837-1c1f5f48c1d6?auto=format&fit=crop&w=800&q=60"
-  },
-  {
-    "id": 10,
-    "title": "Trilocale Family",
-    "address": "Via Lago 19, Bari",
-    "image": "https://images.unsplash.com/photo-1600047500634-0d47c9fd63d9?auto=format&fit=crop&w=800&q=60"
-  },
-  {
-    "id": 11,
-    "title": "Monolocale Economico",
-    "address": "Via Mazzini 23, Palermo",
-    "image": "https://images.unsplash.com/photo-1600585154083-90fe35c0bb34?auto=format&fit=crop&w=800&q=60"
-  },
-  {
-    "id": 12,
-    "title": "Appartamento Vintage",
-    "address": "Via Poeta 15, Catania",
-    "image": "https://images.unsplash.com/photo-1556911073-52527ac437f5?auto=format&fit=crop&w=800&q=60"
-  },
+  
   {
     "id": 13,
     "title": "Casa al Mare",
     "address": "Via Spiaggia 3, Rimini",
     "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=800&q=60"
   },
-  {
-    "id": 14,
-    "title": "Appartamento Classico",
-    "address": "Via Libertà 4, Lecce",
-    "image": "https://images.unsplash.com/photo-1593083661162-447b6f78d88e?auto=format&fit=crop&w=800&q=60"
-  },
-  {
-    "id": 15,
-    "title": "Villetta Tranquilla",
-    "address": "Via Parco 10, Como",
-    "image": "https://images.unsplash.com/photo-1560180474-e8563fd75bab?auto=format&fit=crop&w=800&q=60"
-  },
-  {
-    "id": 16,
-    "title": "Open Space Moderno",
-    "address": "Via Murri 17, Bologna",
-    "image": "https://images.unsplash.com/photo-1600585153943-2ec5b2b4443e?auto=format&fit=crop&w=800&q=60"
-  },
+ 
+
   {
     "id": 17,
     "title": "Bilocale Accogliente",
     "address": "Via Sole 88, Pisa",
     "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&w=800&q=60"
-  },
-  {
-    "id": 18,
-    "title": "Studio Arredato",
-    "address": "Via Roma 9, Siena",
-    "image": "https://images.unsplash.com/photo-1586105251261-72a756497a12?auto=format&fit=crop&w=800&q=60"
-  },
-  {
-    "id": 19,
-    "title": "Attico Vista Mare",
-    "address": "Lungomare 12, Salerno",
-    "image": "https://images.unsplash.com/photo-1578897367622-bf6b4b3ddf47?auto=format&fit=crop&w=800&q=60"
-  },
-  {
-    "id": 20,
-    "title": "Casa Moderna",
-    "address": "Via Monti 99, Aosta",
-    "image": "https://images.unsplash.com/photo-1588854337114-4a4fa63a45c9?auto=format&fit=crop&w=800&q=60"
   }
+
+
 ]
