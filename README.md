@@ -14,7 +14,7 @@ A modern **React-based web application** that simulates an apartment rental plat
 
 ## 🚀 Features
 
-- ✅ **View apartment listings** (20+ entries)
+- ✅ **View apartment listings**
 - ✅ **Preview with title, image, and address**
 - ✅ **Detailed view** for each apartment
 - ✅ **Save/remove favorites** with global state (Redux)
